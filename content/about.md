@@ -9,7 +9,7 @@ showPagination = false
 title = 'About'
 +++
 
-Vinny Seeram is a stand-up comedian based in New York City.
+Vinny Seeram is a stand-up comedian based in New York City. His comedy weaves together personal anecdotes with social commentary to highlight everyday absurdities, all delivered in his distinctive voice and cadence.
 
 ![Stand-up performance](/images/P1053760.jpg)
 
