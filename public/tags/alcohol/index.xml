@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alcohol on Vinny Seeram</title>
-    <link>https://vinnyseeram.com/tags/alcohol/</link>
+    <link>http://localhost:1313/tags/alcohol/</link>
     <description>Recent content in Alcohol on Vinny Seeram</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>vinnyseeram@vinnyseeram.com (Vinny Seeram)</managingEditor>
     <webMaster>vinnyseeram@vinnyseeram.com (Vinny Seeram)</webMaster>
     <copyright>© 2026 Vinny Seeram</copyright>
-    <lastBuildDate>Sun, 12 Apr 2026 21:48:53 -0400</lastBuildDate><atom:link href="https://vinnyseeram.com/tags/alcohol/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Apr 2026 21:48:53 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/alcohol/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Why I always order a Tom Collins</title>
-      <link>https://vinnyseeram.com/posts/tom-collins/</link>
+      <link>http://localhost:1313/posts/tom-collins/</link>
       <pubDate>Sun, 12 Apr 2026 21:48:53 -0400</pubDate>
       <author>vinnyseeram@vinnyseeram.com (Vinny Seeram)</author>
-      <guid>https://vinnyseeram.com/posts/tom-collins/</guid>
+      <guid>http://localhost:1313/posts/tom-collins/</guid>
       <description></description>
       
     </item>
