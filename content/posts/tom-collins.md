@@ -22,7 +22,7 @@ If I ever record an album, "Gin and Tom Collins Mix" is going into the shortlist
 - topped with club soda
 - garnished with a lemon wedge, maybe a maraschino cherry too if you're feeling spicy
 
-So is there a special reason why it's my go to? It's an anachronism in a world where the act of drinking alcohol itself is falling out of fashion with my Gen Z peers. In a landscape more commonly filled by Old Fashioneds and Espresso Martinis, it's often an inconvenience to the bartender to order this arcane highball. I have given many sheepish shrugs to overworked, exasperated bartenders pulling out their phone to ask Google (or, god forbid, ChatGPT) how to make the old man bullshit I just ordered.
+So is there a special reason why it's my go to? It's an anachronism in a world where the act of drinking alcohol itself is falling out of fashion with my Gen Z peers. In a landscape more commonly filled by Old Fashioneds and Espresso Martinis, it's often an inconvenience to the bartender to order it. I have given many sheepish shrugs to overworked, exasperated bartenders pulling out their phone to ask Google (or, god forbid, ChatGPT) how to make the old man bullshit I just ordered.
 
 Maybe it's because the drink was once the subject of a sort of "viral prank" in 1874. It went something like this:  
 
@@ -38,4 +38,4 @@ The latter gentlemen would then enter the bar inquiring about Tom Collins, only 
 
 Maybe the drink is really good? It's pretty good, essentially a bubbly alcoholic lemonade. Very crisp and refreshing at the end of a long day. If we're being real though, a whiskey sour is probably better.
 
-There's nothing whimsical here; it's a simple and inoffensive drink, and ordering it has become a habit. Favorites are rarely momentous or even objectively the best, but rather they are the things we settle into and find comfort with. Moreover, while it is important to celebrate and strive for perfection, I think it is equally important to celebrate that which is "good enough." And for me, few things capture "good enough" better than enjoying Italian food made by Balkans and washing it down with a forgotten 19th century highball.
+There's nothing whimsical here; it's a simple and inoffensive drink, and ordering it has become a habit. Favorites are rarely momentous or even objectively the best, but rather they are the things we settle into and find comfort with. While it is important to celebrate and strive for perfection, I think it's equally important to celebrate that which is "good enough." And for me, few things capture "good enough" better than enjoying Italian food made by Balkans and washing it down with a forgotten 19th century highball.
