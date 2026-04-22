@@ -9,9 +9,9 @@ showPagination = false
 title = 'About'
 +++
 
-Vinny Seeram is a stand-up comedian based in New York City. His comedy weaves together personal anecdotes with social commentary to highlight everyday absurdities, all delivered in his distinctive voice and cadence.
+Vinny Seeram is a stand-up comedian based in New York City. His draws from his experiences growing up as a second generation Indo-Guyanese immigrant in the Bronx, and his observations on politics, race, and culture. 
 
-![Stand-up performance](/images/P1053760.jpg)
+![Stand-up performance](/images/134A5842.jpg)
 
 Vinny performs all over New York, most frequently at his home club Q.E.D. Astoria, where he hosts a weekly open mic and his comedy showcase show, *vinnydotcomedy*. He has also been featured in festivals across the United States, including:
 

@@ -1,0 +1,8 @@
+.single_hero_background {
+  border-radius: 6px;
+}
+
+.carousel-container, [data-twe-carousel-init] {
+  border-radius: 6px;
+  overflow: hidden;
+}

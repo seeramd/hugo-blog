@@ -1,0 +1,4 @@
+---
+---
+
+{{< carousel images="gallery/*.jpg" >}}

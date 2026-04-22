@@ -20,3 +20,5 @@ BRUTUS - This is not an acronym, this is the Roman Senator that betrayed Julius 
 COTUS - This one stands for the *Constitution of the United States*. Obvious coitus joke aside, this is the syndrome that results from untreated SCOTUS.
 
 SLOTUS - You're just messing with me now.
+
+{{< youtube "2k0SmqbBIpQ" >}}
