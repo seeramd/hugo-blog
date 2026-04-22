@@ -3,6 +3,7 @@ date = '2026-04-19T17:49:57-04:00'
 draft = false
 title = 'OTUS Acronyms are out of hand'
 tags = ["politics"]
+summary = 'An exercise in absurd acrostic pedantry'
 +++
 
 It's time to pull it back on OTUS ("_ Of the United States") acronyms. We've simply gone too far.

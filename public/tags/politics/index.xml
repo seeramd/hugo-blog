@@ -2,23 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Politics on Vinny Seeram</title>
-    <link>http://localhost:1313/tags/politics/</link>
+    <link>https://vinnyseeram.com/tags/politics/</link>
     <description>Recent content in Politics on Vinny Seeram</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>vinnyseeram@vinnyseeram.com (Vinny Seeram)</managingEditor>
     <webMaster>vinnyseeram@vinnyseeram.com (Vinny Seeram)</webMaster>
-    <copyright>© 2026 Vinny Seeram</copyright>
-    <lastBuildDate>Sun, 19 Apr 2026 17:49:57 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/politics/index.xml" rel="self" type="application/rss+xml" />
     
+    <lastBuildDate>Sun, 19 Apr 2026 17:49:57 -0400</lastBuildDate><atom:link href="https://vinnyseeram.com/tags/politics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OTUS Acronyms are out of hand</title>
-      <link>http://localhost:1313/posts/executive-acronyms/</link>
+      <link>https://vinnyseeram.com/posts/executive-acronyms/</link>
       <pubDate>Sun, 19 Apr 2026 17:49:57 -0400</pubDate>
       <author>vinnyseeram@vinnyseeram.com (Vinny Seeram)</author>
-      <guid>http://localhost:1313/posts/executive-acronyms/</guid>
-      <description></description>
-      
+      <guid>https://vinnyseeram.com/posts/executive-acronyms/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s time to pull it back on OTUS (&amp;quot;_ Of the United States&amp;quot;) acronyms. We&amp;rsquo;ve simply gone too far.&lt;/p&gt;
+&lt;p&gt;POTUS - I&amp;rsquo;m okay with this. Has a faux-Latin feel to it, and western politicians do like to cosplay Roman Republic.&lt;/p&gt;
+&lt;p&gt;FLOTUS - Does have an elegant, floral ring to it. When we have a First Gentleman it will become dangerously close to a homophobic slur.&lt;/p&gt;
+&lt;p&gt;SCOTUS - Sounds like a venereal disease.&lt;/p&gt;
+&lt;p&gt;VPOTUS - This is just obscene, completely aura-less. Somehow worse than &amp;ldquo;Veep.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;BRUTUS - This is not an acronym, this is the Roman Senator that betrayed Julius Caesar.&lt;/p&gt;
+&lt;p&gt;COTUS - This one stands for the &lt;em&gt;Constitution of the United States&lt;/em&gt;. Obvious coitus joke aside, this is the syndrome that results from untreated SCOTUS.&lt;/p&gt;
+&lt;p&gt;SLOTUS - You&amp;rsquo;re just messing with me now.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/2k0SmqbBIpQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+</description>
     </item>
     
   </channel>

@@ -71,6 +71,7 @@ title = "Vinny Seeram"
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
     { youtube = "https://youtube.com/@vinnyseeram" },
+    { rss = "https://vinnyseeram.com/posts/index.xml" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
 #     { printables = "https://www.printables.com/@username"},
