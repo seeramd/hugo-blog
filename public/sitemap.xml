@@ -4,18 +4,24 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-19T17:49:57-04:00</lastmod>
+    <lastmod>2026-04-30T21:47:25-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/executive-acronyms/</loc>
-    <lastmod>2026-04-19T17:49:57-04:00</lastmod>
+    <loc>http://localhost:1313/posts/the-dancer/</loc>
+    <lastmod>2026-04-30T21:47:25-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-04-30T21:47:25-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/executive-acronyms/</loc>
     <lastmod>2026-04-19T17:49:57-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
