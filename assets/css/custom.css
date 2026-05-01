@@ -20,3 +20,10 @@ a.mailing-list-btn:hover {
 .dark a.mailing-list-btn {
   color: rgba(var(--color-neutral-300), 1) !important;
 }
+
+iframe {
+  min-height: 600px;
+  height: auto !important;
+  overflow-y: auto !important;
+  -webkit-overflow-scrolling: touch;
+}
