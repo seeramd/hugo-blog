@@ -1,6 +1,6 @@
 +++
 date = '2026-05-06T20:56:54-04:00'
-draft = false
+draft = true
 title = 'Vinny Reads Moby Dick: Chapter 1'
 tags = ["Reading Log", "Moby Dick"]
 summary = 'A first time reaction and analysis of Moby Dick, chapter 1'
