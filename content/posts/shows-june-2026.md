@@ -1,5 +1,5 @@
 +++
-date = '2026-06-15T19:02:04-04:00'
+date = '2026-06-07T19:02:04-04:00'
 draft = false
 title = 'My Shows in June 2026'
 tags = ["shows"]
