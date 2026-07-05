@@ -23,7 +23,8 @@ Vinny performs all over New York, most frequently at his home club Q.E.D. Astori
 - HaHa Harvest Comedy Festival (Jersey City, NJ)
 - Salem Comedy and Spirits Festival (Salem, MA)
 - Last Word Comedy Festival (Williamsburg, VA)
+- Hill People's Comedy Festival (Stamford, NY)
 
-{{< youtube "5FM1YdvHOHA" >}}
+{{< youtube "SbuZUfwplic" >}}
 
 Vinny has also appeared as an actor in several theatrical productions in New York. In *AfterWork Theater's* productions of *You Can't Take it With You* and *The Crucible* he played Tony Kirby and John Proctor, respectively. He has most recently appeared in ScriptClub NYC's production of *The 39 Steps* as The Professor and other supporting roles.
