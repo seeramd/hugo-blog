@@ -1,7 +1,7 @@
 +++
 date = '2026-06-15T19:02:04-04:00'
 draft = false
-title = 'Shows June 2026'
+title = 'My Shows in June 2026'
 tags = ["shows"]
 +++
 
