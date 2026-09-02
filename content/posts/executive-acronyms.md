@@ -1,6 +1,6 @@
 +++
 date = '2026-04-19T17:49:57-04:00'
-draft = false
+draft = true
 title = '_OTUS Acronyms are out of hand'
 tags = ["politics"]
 summary = 'An exercise in absurd acrostic pedantry'

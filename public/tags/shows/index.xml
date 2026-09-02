@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Vinny Seeram</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Vinny Seeram</description>
+    <title>Shows on Vinny Seeram</title>
+    <link>http://localhost:1313/tags/shows/</link>
+    <description>Recent content in Shows on Vinny Seeram</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>vinnyseeram@vinnyseeram.com (Vinny Seeram)</managingEditor>
     <webMaster>vinnyseeram@vinnyseeram.com (Vinny Seeram)</webMaster>
     
-    <lastBuildDate>Sun, 07 Jun 2026 19:02:04 -0400</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jun 2026 19:02:04 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/shows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Shows in June 2026</title>
       <link>http://localhost:1313/posts/shows-june-2026/</link>
@@ -98,27 +98,6 @@ Shannon Keye&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m fortunate to be featured in the 6th Annual Hill People&amp;rsquo;s Comedy Festival in Stamford, NY. The festival actually starts on Thursday, with a showcase of local comedians. Friday night at 7 PM is a showcase of all the festival participants (myself included).&lt;/p&gt;
 &lt;p&gt;Saturday night&amp;rsquo;s show will feature the festival&amp;rsquo;s headliner, Mia Jackson, for whom I will be featuring. You can grab tickets/passes to all the festivals events &lt;a href=&#34;https://www.zeffy.com/en-US/ticketing/6th-annual-hill-peoples-comedy-fest&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s all I&amp;rsquo;ve got for you now. Thanks for checking in!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>_OTUS Acronyms are out of hand</title>
-      <link>http://localhost:1313/posts/executive-acronyms/</link>
-      <pubDate>Sun, 19 Apr 2026 17:49:57 -0400</pubDate>
-      <author>vinnyseeram@vinnyseeram.com (Vinny Seeram)</author>
-      <guid>http://localhost:1313/posts/executive-acronyms/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s time to pull it back on OTUS (&amp;quot;_ Of the United States&amp;quot;) acronyms. We&amp;rsquo;ve simply gone too far.&lt;/p&gt;
-&lt;p&gt;POTUS - I&amp;rsquo;m okay with this. Has a faux-Latin feel to it, and western politicians do like to cosplay Roman Republic.&lt;/p&gt;
-&lt;p&gt;FLOTUS - Does have an elegant, floral ring to it. When we have a First Gentleman it will become dangerously close to a homophobic slur.&lt;/p&gt;
-&lt;p&gt;SCOTUS - Sounds like a venereal disease.&lt;/p&gt;
-&lt;p&gt;VPOTUS - This is just obscene, completely aura-less. Somehow worse than &amp;ldquo;Veep.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;BRUTUS - This is not an acronym, this is the Roman Senator that betrayed Julius Caesar.&lt;/p&gt;
-&lt;p&gt;COTUS - This one stands for the &lt;em&gt;Constitution of the United States&lt;/em&gt;. Obvious coitus joke aside, this is the syndrome that results from untreated SCOTUS.&lt;/p&gt;
-&lt;p&gt;SLOTUS - You&amp;rsquo;re just messing with me now.&lt;/p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/2k0SmqbBIpQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
 </description>
     </item>
     

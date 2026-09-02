@@ -4,19 +4,19 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-30T21:47:25-04:00</lastmod>
+    <lastmod>2026-06-07T19:02:04-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/the-dancer/</loc>
-    <lastmod>2026-04-30T21:47:25-04:00</lastmod>
+    <loc>http://localhost:1313/posts/shows-june-2026/</loc>
+    <lastmod>2026-06-07T19:02:04-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-04-30T21:47:25-04:00</lastmod>
+    <lastmod>2026-06-07T19:02:04-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
