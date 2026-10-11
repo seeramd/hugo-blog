@@ -21,6 +21,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/posts/some-upcoming-festival-dates/</loc>
+    <lastmod>2026-10-01T13:42:12-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/shows-june-2026/</loc>
     <lastmod>2026-06-07T19:02:04-04:00</lastmod>
     <changefreq>daily</changefreq>
