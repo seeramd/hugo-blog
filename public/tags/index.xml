@@ -19,14 +19,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Politics</title>
-      <link>http://localhost:1313/tags/politics/</link>
-      <pubDate>Sun, 19 Apr 2026 17:49:57 -0400</pubDate>
-      <author>vinnyseeram@vinnyseeram.com (Vinny Seeram)</author>
-      <guid>http://localhost:1313/tags/politics/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
