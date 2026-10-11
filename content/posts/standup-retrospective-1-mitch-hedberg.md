@@ -1,6 +1,7 @@
 +++
 date = '2026-10-11T14:14:31-04:00'
 draft = false
+tags = ['comedy retrospectives']
 title = 'Stand-up Retrospectives No.1 - Strategic Grill Locations by Mitch Hedberg'
 +++
 
@@ -57,7 +58,7 @@ So what motivated this creative choice? I've wondered for years, but it seems I 
 >The club owner in Houston place called the Laff stop… His name was Mark Babbitt… It was his idea. He had been to a wedding and there was a band up there and Mitch was telling a few jokes and Mitch was messing with the Bass Player and Babbitt knew me as a comic that used it upright base and stuck us together.
 
 
-Mystery solved, if this Reddit post is to be believed. Chuck would not make an appearance on Mitch's second album, for whatever reason, though they would continue to tour "on and off" together for the next several years. Chuck is still out there making music, and you can check out his bandcamp [here](https://chucksavage.bandcamp.com/). A few months later, he did another AMA on /r/standup and /r/comedy under a different user account. Most of the Q&As covered the same information, but he did also mention he wrote a book about his experience with Mitch, which is available on [Amazon](www.amazon.com/dp/B0H48XHMMN?ref=cm_sw_r_ffobk_cp_ud_dp_15DC38GM0HHW3FJ3FH4C&social_share=cm_sw_r_ffobk_cp_ud_dp_15DC38GM0HHW3FJ3FH4C&bestFormat=true).
+Mystery solved, if this Reddit post is to be believed. Chuck would not make an appearance on Mitch's second album, for whatever reason, though they would continue to tour "on and off" together for the next several years. Chuck is still out there making music, and you can check out his bandcamp [here](https://chucksavage.bandcamp.com/). A few months later, he did another AMA on /r/standup and /r/comedy under a different user account. Most of the Q&As covered the same information, but he did also mention he wrote a book about his experience with Mitch, which is available on [Amazon](www.amazon.com/dp/B0H48XHMMN).
 
 As the album proceeds, the self produced aspect of the album is very apparent. Mitch, the bass, and the crowd are all adequately audible, but there is an unmistakable "LoFi" quality compared to his later albums. Outside of that it is, quite literally, vintage Mitch Hedberg. What that is exactly is sometimes hard to describe. I think it may help to describe through contrast with another famous one liner comic, Steven Wright. From a bird's eye view, they are superficially similar. They both deliver absurd one-liners with a distinctive, low energy cadence. However, where Wright has a robotic and detached delivery, Hedberg's delivery is casual and conversational. Where Wright can veer into full blown surrealism and abstract situations, Hedberg is also a bit surreal but more grounded in unorthodox observations and conclusions from the mundane. To summarize, Steven Wright is like a being from a different dimension, and Mitch Hedberg is like your laid back friend who sees our world in a unique way.
 
